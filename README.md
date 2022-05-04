@@ -1,5 +1,5 @@
-### Hi there 👋
-### Este es el perfil de Luis 
+# Hi there 👋
+## Este es el perfil de Luis 
 ### Un genio
 ### un millonario
 ### un playboy
