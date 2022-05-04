@@ -1,9 +1,6 @@
 # Hi there 👋
 ## Este es el perfil de Luis 
-### Un genio
-### un millonario
-### un playboy
-### y un filántropo
+### Un genio, millonario, playboy y filántropo
 
 <!--
 **Lokochris37/Lokochris37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
