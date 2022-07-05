@@ -1,5 +1,5 @@
 # Hi there 👋
-## Este es el perfil de Luis :trollface:
+## Este es el perfil de Luis 
 ### Un genio, millonario, playboy y filántropo
 
 <!--
